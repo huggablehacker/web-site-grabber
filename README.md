@@ -9,6 +9,6 @@ Modify `dms.sh` argument's mode with `chmod a+x`
 
 Usage of this would be:
 
-`./dms.sh` `text.txt` (where `test.txt` is the text file you wish to analyze and is in the same directory as `dms.sh`)
+`./dms.sh` `http://google.com` 
 
 Output file will save to the current directory. See `output.txt` for simulated results.
