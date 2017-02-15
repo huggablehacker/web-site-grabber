@@ -11,7 +11,7 @@ Usage of this would be:
 
 `./dms.sh` `http://google.com` 
 
-Output file will save to the current directory. See `output.txt` for simulated results.
+Output file directory and associated website files will save to the current directory. The Directory will named for the website that is crawled
 
 
 Inspired by the following data saving projects:
