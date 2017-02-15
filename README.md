@@ -9,7 +9,7 @@ Modify `dms.sh` argument's mode with `chmod a+x`
 
 Usage of this would be:
 
-`./dms.sh` `http://google.com` 
+`./dms.sh http://google.com` 
 
 Output file directory and associated website files will save to the current directory. The Directory will named for the website that is crawled
 
